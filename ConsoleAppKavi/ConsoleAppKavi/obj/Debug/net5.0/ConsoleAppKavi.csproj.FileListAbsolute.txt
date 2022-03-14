@@ -1,0 +1,51 @@
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.exe
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.deps.json
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.runtimeconfig.json
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.runtimeconfig.dev.json
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.dll
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ref\ConsoleAppKavi.dll
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.pdb
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.AssemblyInfoInputs.cache
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.AssemblyInfo.cs
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.csproj.CoreCompileInputs.cache
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.csproj.CopyComplete
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.dll
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ref\ConsoleAppKavi.dll
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.pdb
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.genruntimeconfig.cache
+E:\Odesk New Work\Sample code\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.csprojAssemblyReference.cache
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.GeneratedMSBuildEditorConfig.editorconfig
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.AssemblyInfoInputs.cache
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.AssemblyInfo.cs
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.csproj.CoreCompileInputs.cache
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.exe
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.deps.json
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.runtimeconfig.json
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.runtimeconfig.dev.json
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.dll
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ref\ConsoleAppKavi.dll
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.pdb
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.dll
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ref\ConsoleAppKavi.dll
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.pdb
+E:\EG\EG development\Repos\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.genruntimeconfig.cache
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.GeneratedMSBuildEditorConfig.editorconfig
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.AssemblyInfoInputs.cache
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.AssemblyInfo.cs
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.csproj.CoreCompileInputs.cache
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.exe
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.deps.json
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.runtimeconfig.json
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.runtimeconfig.dev.json
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.dll
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ref\ConsoleAppKavi.dll
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\ConsoleAppKavi.pdb
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.dll
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ref\ConsoleAppKavi.dll
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.pdb
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.genruntimeconfig.cache
+E:\EG\EG development\Azure Functions\ConsoleAppKavi\ConsoleAppKavi\ConsoleAppKavi\obj\Debug\net5.0\ConsoleAppKavi.csproj.AssemblyReference.cache
